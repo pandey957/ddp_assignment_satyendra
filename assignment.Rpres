@@ -1,0 +1,27 @@
+Predicting Joining timeline based on Technology
+========================================================
+
+author: Satyendra Raj Pandey
+date: 2016/01/31 Sunday
+
+Problem Statement
+========================================================
+These days, there has been rise in number of startup. These company need to hire candidates quickly and also need to optimize the cost to do so. So that, they don't end up hiring resource much before the actual implementation starts. Some of known problem are listed below.
+- Need to hire candidate in short time.
+- Don't have much budget to do the same.
+- Need to hire candidates for cutting edge technology.
+
+Proposed Solution
+========================================================
+
+Due to complexing of ongoing project, i can not display the solutions. But it involves a lot prediction/machine learning technologies.
+
+Summary of existing Library
+========================================================
+```{r}
+summary(mtcars)
+```
+
+Summary And thanks
+========================================================
+Thanks for going through this slide.
